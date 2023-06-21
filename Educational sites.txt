@@ -6,3 +6,6 @@
 ! Last modified: %timestamp%
 
 classroom.google.com
+backpack.ed.act.edu.au
+mathspace.co
+transum.org
