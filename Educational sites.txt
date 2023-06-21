@@ -1,6 +1,7 @@
 ! Title: Education
 ! Description: |
 !   Blocks educational sites
+!   Because why not
 ! Expires: 7 days
 ! Last modified: %timestamp%
 
